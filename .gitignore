@@ -1,0 +1,17 @@
+# Environment variables
+
+.env.local
+.env.local.example
+
+# Node modules
+node_modules
+
+# Build output
+dist
+
+# //next js 
+.next
+
+# Log files
+logs
+*.log   
